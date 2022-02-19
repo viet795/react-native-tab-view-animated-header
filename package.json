@@ -1,0 +1,26 @@
+{
+  "name": "react-native-tab-view-animated-header",
+  "version": "1.0.3",
+  "description": "Animation header tab view component for React Native",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viet795/react-native-tab-view-animated-header"
+  },
+  "homepage": "https://github.com/viet795/react-native-tab-view-animated-header#readme",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-native-tab",
+    "animation header tab",
+    "collapsible header"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "vietdaica",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-tab-view-animated-header": "^1.0.2"
+  }
+}
