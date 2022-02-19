@@ -3,7 +3,7 @@
 This library base on [`react-native-tab-view`](https://github.com/satya164/react-native-tab-view) and Animated of react-native.
 Very simple to use. happy coding!!!!
 
-![](https://i.ibb.co/JpZHHHn/2222.gif)
+![](https://github.com/viet795/react-native-tab-view-animated-header/blob/main/image.gif)
 
 ### Installation
 
