@@ -20,10 +20,12 @@ $ yarn add react-native-tab-view-animated-header
 ```jsx
 import * as React from "react";
 import { View, useWindowDimensions, Animated, Image } from "react-native";
-import CustomTab from "./CusomTab";
 import { SceneMap } from "react-native-tab-view";
-import CustomScrollView from "./CustomScrollView";
-import CustomFlatList from "./CustomFlatList";
+import {
+  CustomFlatList,
+  CustomScrollView,
+  CustomTab,
+} from "react-native-tab-view-animated-header";
 
 const FirstRoute = (props: any) => {
   const { route } = props;
